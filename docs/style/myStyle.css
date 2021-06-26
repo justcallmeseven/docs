@@ -1,0 +1,38 @@
+/* 置顶插件 */
+.to-top {
+    display: none;
+    padding: 10px 20px;
+    margin-right: 10px;
+    color: #fff;
+    border-radius: 10px;
+    background-color: rgb(102, 126, 233);
+}
+
+h1 span{
+    display:inline-block;
+    background: rgb(102, 126, 233);
+    color:#ffffff !important;
+    padding: 10px  16px;
+    border-radius:5px;
+    box-shadow: 2px 2px 5px rgb(216, 216, 216);
+}
+
+/* 侧边栏标题 */
+.sidebar > h1 a{
+    color: red
+}
+
+/* 侧边栏背景颜色 */
+/* .sidebar{
+    background:rgb(51, 51, 51);
+} */
+
+/* 侧边栏字体颜色粗细大小 */
+.sidebar ul li {
+    /* font-weight: 600; */
+    font-size:21px;
+}
+.sidebar ul li a {
+    /* font-weight: 600; */
+    font-size:18px;
+}
