@@ -4,8 +4,9 @@
 
 ***
 
-#  <center>该怎么介绍才会惊艳到你</center>
+<div align="center"> <img src="https://cdn.jsdelivr.net/gh/justcallmeseven/hexoservice/docsimg/coverpage.png"/> </div>
 
-***
 
-![首页](https://cdn.jsdelivr.net/gh/justcallmeseven/hexoservice/docsimg/coverpage.png)
+
+<div align="center"> <h1><font color="blue">该怎么介绍才会惊艳到你</font></h1> </div>
+
