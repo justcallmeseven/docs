@@ -2,58 +2,64 @@
 
 ##  Git
 
-- ####  [Github](https://github.com/) 全球最大开源社区
+- ####  [Github 全球最大开源社区](https://github.com/)
 
 
-- #### [GitHub Desktop](https://desktop.github.com/) Github桌面
+- #### [GitHub Desktop](https://desktop.github.com/)
 
 
-- ####  [Gitee](https://gitee.com/) 中国最大开源社区
+- ####  [Gitee 中国最大开源社区](https://gitee.com/)
 
 
-- ####  [Git](https://git-scm.com/) 一个免费的开源分布式版本控制系统
+- ####  [Git 一个免费的开源分布式版本控制系统](https://git-scm.com/)
 
 
-- #### [Coding](https://coding.net/) 一站式软件研发管理平台
+- #### [Coding 一站式软件研发管理平台](https://coding.net/)
+
+***
+
+## Visual Studio
+
+- #### [Visual Studio开发工具](https://visualstudio.microsoft.com/zh-hans/)
 
 ***
 
 ## Maven
 
-- #### [Maven存储库搜索](https://search.maven.org/) 使用Maven要什么包可以在这里搜索(已写好了代码格式)
+- #### [Maven存储库搜索 使用Maven要什么包可以在这里搜索(已写好了代码格式)](https://search.maven.org/)
 
 
 ***
 
 ##  Server connect
 
-- ####  [Filezilla](https://filezilla-project.org/) 免费开源FTP软件
+- ####  [Filezilla 免费开源FTP软件](https://filezilla-project.org/)
 
 
-- ####  [PuTTY](https://www.putty.org/) 用于Windows和Unix平台的SSH和Telnet的免费实现
+- ####  [PuTTY 用于Windows和Unix平台的SSH和Telnet的免费实现](https://www.putty.org/)
 
 
 ***
 
 ## CDN解决方案
 
-- #### [Jsdelivr](https://www.jsdelivr.com/) 免费开源的CDN解决方案，用于帮助开发者和站长。包含JavaScript库、jQuery插件、CSS框架、字体等等Web上常用的静态资源
+- #### [Jsdelivr 免费开源的CDN解决方案，用于帮助开发者和站长。包含JavaScript库、jQuery插件、CSS框架、字体等等Web上常用的静态资源](https://www.jsdelivr.com/)
 
 
 ***
 
 ## 矢量图标库
 
-- #### [阿里巴巴矢量图标库](https://www.iconfont.cn/) 登录账号后使用
+- #### [阿里巴巴矢量图标库 登录账号后使用](https://www.iconfont.cn/)
 
 
-- #### [iconfinder](https://www.iconfinder.com/) 大部分都可以免费使用在个人或商业用途，网站无需注册即可使用
+- #### [iconfinder 大部分都可以免费使用在个人或商业用途，网站无需注册即可使用](https://www.iconfinder.com/)
 
 
-- #### [findicons](https://findicons.com/) 无需登录，即可免费下载多种版本的图标
+- #### [findicons 无需登录，即可免费下载多种版本的图标](https://findicons.com/)
 
 
-- #### [icons8](https://icons8.com/) 不同尺寸、格式的图标可能需要收费
+- #### [icons8 不同尺寸、格式的图标可能需要收费](https://icons8.com/)
 
 
 ***
@@ -142,7 +148,15 @@
 
 ## 其他工具
 
+- #### [Firefox 开发者工具是指Firefox集成的一系列web开发者工具](https://developer.mozilla.org/zh-CN/docs/Tools)
+
 - #### [百度统计](https://tongji.baidu.com/web/welcome/login)
+
+- #### [5118大数据](https://www.5118.com/)
+
+- #### [超级SEO外链工具](https://tool.lusongsong.com/seo/)
+
+- #### [接口端口测试](http://coolaf.com/)
 
 - #### [Emoji大全](https://www.emojiall.com/zh-hans)
 
@@ -158,10 +172,15 @@
 
 - #### [Text to ASCII](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
 
-#### 工具箱
+#### 其他一些小工具箱
 
-|    [在线工具](https://tool.lu/)     |         [之家工具](http://tool.chinaz.com/)         | [工具大全](http://www.all-tool.cn/)  |
-| :---------------------------------: | :-------------------------------------------------: | :----------------------------------: |
-| [5118大数据](https://www.5118.com/) | [超级SEO外链工具](https://tool.lusongsong.com/seo/) |  [接口端口测试](http://coolaf.com/)  |
-|                                     |       [记磊工具箱](https://tools.ly522.com/)        | [孟坤工具箱](http://tool.mkblog.cn/) |
+- #### [在线工具](https://tool.lu/)
+
+- #### [站长工具](http://tool.chinaz.com/)
+
+- #### [工具大全](http://www.all-tool.cn/)
+
+- #### [记磊工具箱](https://tools.ly522.com/)
+
+- #### [孟坤工具箱](http://tool.mkblog.cn/)
 
