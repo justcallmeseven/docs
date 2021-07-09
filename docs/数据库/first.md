@@ -6,33 +6,25 @@
 
 - #### [SQL练习](数据库/SQL练习.md)
 
-***
-
 ## 数据库系统原理
 
-123
-
-***
+- #### [数据库系统原理](数据库/数据库系统原理.md)
 
 ## MySQL
 
-123
+- 未整理
 
-***
 
 ## Redis
 
-123
+- 未整理
 
-***
 
 ## MongoDB
 
-- #### [MongoDB官网 一个基于分布式文件存储的数据库。由 C++ 语言编写](https://www.mongodb.com/)
+- #### [MongoDB官网 一个基于分布式文件存储的数据库,由 C++ 语言编写](https://www.mongodb.com/)
 
 - #### [MongoDB API文档](https://docs.mongodb.com/manual/)
-
-***
 
 ## SQL Server
 

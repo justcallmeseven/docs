@@ -4,9 +4,6 @@
 
 - #### [Bootstrap 简洁、直观、强悍的前端开发框架，让web开发更迅速、简单](https://www.bootcss.com/)
 
-
-***
-
 ## UI
 
 - #### [jQuery UI 是建立在 jQuery JavaScript 库上的一组精心设计的用户界面交互、效果、小部件和主题](http://jqueryui.com/)
@@ -22,9 +19,6 @@
 
 - #### [Layui 一套开源的 Web UI 解决方案,经典开源模块化前端 UI 框架](https://www.layui.com/)
 
-
-***
-
 ## Nodejs
 
 - #### [Nodejs 基于Chrome V8引擎的JavaScript运行环境(简单的说Node.js就是运行在服务端的JavaScript)](https://nodejs.org/zh-cn/)
@@ -35,13 +29,9 @@
 
 - #### [Axios 是一个基于 promise 的 HTTP 库，可以用在浏览器和 node.js 中](http://www.axios-js.com/)
 
-***
-
 ## Vuejs
 
 - #### [Vuejs 一套构建用户界面的渐进式 JavaScript 框架](https://cn.vuejs.org/)
-
-***
 
 ## Mozilla(HTML,CSS,Javascript)
 
@@ -51,17 +41,17 @@
 
     - #### [Web 开发者参考](https://developer.mozilla.org/zh-CN/docs/orphaned/Web/Reference)
 
-    - #### HTML — 构建 Web
+    - #### HTML — 构建Web
 
-      1. #### [HTML 介绍](https://developer.mozilla.org/zh-CN/docs/Learn/HTML/Introduction_to_HTML)
+      1. #### [HTML介绍](https://developer.mozilla.org/zh-CN/docs/Learn/HTML/Introduction_to_HTML)
 
-      2. #### [学习 HTML](https://developer.mozilla.org/zh-CN/docs/Learn/HTML)
+      2. #### [学习HTML](https://developer.mozilla.org/zh-CN/docs/Learn/HTML)
 
       3. #### [HTML5](https://developer.mozilla.org/zh-CN/docs/orphaned/Web/Guide/HTML/HTML5)
 
       4. #### [HTML开发者指南](https://developer.mozilla.org/zh-CN/docs/Learn/HTML)
 
-      5. #### [HTML 元素参考(API文档)](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element)
+      5. #### [HTML元素参考(API文档)](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element)
 
       6. #### [HTML资料库](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Reference)
 
@@ -77,7 +67,7 @@
 
       5. #### [CSS开发者指南](https://developer.mozilla.org/zh-CN/docs/Learn/CSS)
 
-      6. #### [CSS 常见问题](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/Howto/CSS_FAQ)
+      6. #### [CSS常见问题](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/Howto/CSS_FAQ)
 
       7. #### [CSS资料库](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Reference)
 

@@ -37,6 +37,13 @@ h1 span{
     font-size:18px;
 }
 
+/* 引用块 */
+.markdown-section blockquote{
+    background: rgb(223, 245, 230);
+    /* padding:10px; */
+    /* border-radius:10px; */
+}
+
 /* 代码块 */
 .markdown-section pre>code {
     color: #c0c3c1 !important;

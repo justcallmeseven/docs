@@ -16,20 +16,13 @@
 
 - #### [Coding 一站式软件研发管理平台](https://coding.net/)
 
-***
-
 ## Visual Studio
 
 - #### [Visual Studio开发工具](https://visualstudio.microsoft.com/zh-hans/)
 
-***
-
 ## Maven
 
 - #### [Maven存储库搜索 使用Maven要什么包可以在这里搜索(已写好了代码格式)](https://search.maven.org/)
-
-
-***
 
 ##  Server connect
 
@@ -38,15 +31,9 @@
 
 - ####  [PuTTY 用于Windows和Unix平台的SSH和Telnet的免费实现](https://www.putty.org/)
 
-
-***
-
 ## CDN解决方案
 
 - #### [Jsdelivr 免费开源的CDN解决方案，用于帮助开发者和站长。包含JavaScript库、jQuery插件、CSS框架、字体等等Web上常用的静态资源](https://www.jsdelivr.com/)
-
-
-***
 
 ## 矢量图标库
 
@@ -61,9 +48,6 @@
 
 - #### [icons8 不同尺寸、格式的图标可能需要收费](https://icons8.com/)
 
-
-***
-
 ##  Markdown
 
 - ####  [Markdown中文文档](https://markdown-zh.readthedocs.io/en/latest/)
@@ -75,9 +59,6 @@
 - ####  [印象笔记](https://www.yinxiang.com/)
 
 - #### [MarkdownPad](http://markdownpad.com/)
-
-
-***
 
 ##  Photo Editor Online
 
@@ -95,17 +76,11 @@
 
 - #### [免费Logo设计生成器](https://www.logaster.cn/)
 
-
-***
-
 ## IP信息查看
 
 - #### [IP延迟](http://ping.pe/)
 
 - #### [IP Address Tools](https://www.ipaddress.com/)
-
-
-***
 
 ## 学习网站
 
@@ -130,8 +105,6 @@
 
 - #### [HTML5网站模板](https://html5up.net/)
 
-***
-
 ## 开发社区
 
 - #### [开源中国](https://www.oschina.net/)
@@ -143,8 +116,6 @@
 - #### [掘金](https://juejin.cn/)
 
 - #### [stackoverflow](https://stackoverflow.com/)
-
-***
 
 ## 其他工具
 
