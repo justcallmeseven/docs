@@ -8,5 +8,4 @@
 
 
 
-<div align="center"> <h1><font color="blue">想给你写封信又担心你遨游四方不知今在何方</font></h1> </div>
-
+<div align="center"> <h2><font color="blue">长风破浪会有时，直挂云帆济沧海</font></h2> </div>
