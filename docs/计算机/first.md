@@ -6,10 +6,15 @@
 
 - #### [操作系统 - 第二篇](计算机/操作系统进阶.md)
 
-
 ## Linux
 
+- #### [Linux和Unix的关系及区别](计算机/Linux和Unix的关系及区别.md)
+
 - #### [Linux常用命令](计算机/Linux常用命令.md)
+
+- #### [vim官网](https://www.vim.org/)
+
+  #### [vi/vim入门](计算机/vim入门.md)
 
 
 ## 计算机网络
