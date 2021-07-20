@@ -15,6 +15,8 @@
 - #### [vim官网](https://www.vim.org/)
 
   #### [vi/vim入门](计算机/vim入门.md)
+  
+- #### [shell脚本语言](计算机/shell脚本语言.md)
 
 
 ## 计算机网络

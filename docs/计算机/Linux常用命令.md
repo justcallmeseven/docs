@@ -183,3 +183,12 @@
 
   #6 重新启动（千万不要把 initdefault 设置为6）
 
+- [Shell echo命令](https://www.runoob.com/linux/linux-shell-echo.html)
+
+  **echo 写入的内容 > filename： 覆盖原本文件的内容**
+
+  **echo 写入的内容 >> filename：在原内容追加行**
+
+### Linux 系统目录结构
+
+- [Linux系统目录结构](https://www.runoob.com/linux/linux-system-contents.html)
