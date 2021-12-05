@@ -143,8 +143,6 @@
 
 - #### [临时邮箱 匿名注册不常用网站](https://linshiyouxiang.net/)
 
-- #### [KMS激活Windows一键脚本](https://kms.avg.cx/)
-
 - #### [Text to ASCII](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
 
 #### 其他一些小工具箱
