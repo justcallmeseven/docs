@@ -56,19 +56,15 @@
 
 ##  Photo Editor Online
 
-- ####  [Pixlr](https://pixlr.com/cn/editor/)
+- #### [在线智能PNG和JPEG压缩](https://tinypng.com/)
 
 - #### [移除图片背景](https://www.remove.bg/)
-
-- #### [在线智能PNG和JPEG压缩](https://tinypng.com/)
 
 - #### [在线转换图片格式](https://ezgif.com/)
 
 - #### [SVG在线压缩](https://jakearchibald.github.io/svgomg/)
 
 - #### [Loading图制作 GIF SVG CSS](https://loading.io/)
-
-- #### [免费Logo设计生成器](https://www.logaster.cn/)
 
 ## IP信息查看
 
