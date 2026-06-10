@@ -29,7 +29,7 @@
 - ####  [Filezilla 免费开源FTP软件](https://filezilla-project.org/)
 
 
-- ####  [PuTTY 用于Windows和Unix平台的SSH和Telnet的免费实现](https://www.putty.org/)
+- ####  [PuTTY 用于Windows和Unix平台的SSH和Telnet的免费实现](https://www.chiark.greenend.org.uk/~sgtatham/putty/)
 
 ## CDN解决方案
 
