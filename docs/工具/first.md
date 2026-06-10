@@ -8,13 +8,7 @@
 - #### [GitHub Desktop](https://desktop.github.com/)
 
 
-- ####  [Gitee 中国最大开源社区](https://gitee.com/)
-
-
 - ####  [Git 一个免费的开源分布式版本控制系统](https://git-scm.com/)
-
-
-- #### [Coding 一站式软件研发管理平台](https://coding.net/)
 
 ## Visual Studio
 
