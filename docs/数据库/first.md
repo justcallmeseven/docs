@@ -14,18 +14,15 @@
 
 - #### [MySQL资料库](数据库/MySQL.md)
 
+## SQL Server
 
-## Redis
-
-- 未整理
+- #### [Microsoft SQL 文档](https://docs.microsoft.com/zh-cn/sql/?view=sql-server-ver15)
 
 
 ## MongoDB
 
 - #### [MongoDB官网 一个基于分布式文件存储的数据库,由 C++ 语言编写](https://www.mongodb.com/)
 
-- #### [MongoDB API文档](https://docs.mongodb.com/manual/)
+## Redis
 
-## SQL Server
-
-- #### [Microsoft SQL 文档](https://docs.microsoft.com/zh-cn/sql/?view=sql-server-ver15)
+- 虚位以待
