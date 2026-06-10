@@ -76,10 +76,6 @@
 
 - #### [免费Logo设计生成器](https://www.logaster.cn/)
 
-## 变量命名
-
-- #### [CODELF(变量命名神器)](https://unbug.github.io/codelf/)
-
 ## IP信息查看
 
 - #### [IP延迟](http://ping.pe/)
