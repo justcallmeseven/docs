@@ -94,8 +94,6 @@
 
 - #### [开源中国](https://www.oschina.net/)
 
-- #### [CSDN](https://www.csdn.net/)
-
 - #### [博客园](https://www.cnblogs.com/)
 
 - #### [掘金](https://juejin.cn/)
