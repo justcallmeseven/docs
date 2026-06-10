@@ -74,26 +74,21 @@
 
 ## 学习网站
 
-- #### [Leetcode全球极客挚爱的技术成长平台](https://leetcode-cn.com/)
-
-- #### [Lintcode号称中文版的leetcode](https://www.lintcode.com/)
-
-- #### [NEUQ OJ一个在线的判题平台](http://acmclub.cn/home)
-
-- #### [牛客网](https://www.nowcoder.com/)
-
-- #### [计蒜客](https://nanti.jisuanke.com/oi)
-
-- #### [C语言网](https://www.dotcpp.com/)
-
 - #### [菜鸟教程 提供了编程的基础技术教程](https://www.runoob.com/)
 
 - #### [W3school 领先的 Web 技术教程](https://www.w3school.com.cn/)
 
-- #### [前端网](http://www.qianduandaxue.com/)
-
-
 - #### [HTML5网站模板](https://html5up.net/)
+
+- #### [Leetcode全球极客挚爱的技术成长平台](https://leetcode-cn.com/)
+
+- #### [Lintcode号称中文版的leetcode](https://www.lintcode.com/)
+
+- #### [牛客网](https://www.nowcoder.com/)
+
+- #### [计蒜客](https://www.jisuanke.com/problems)
+
+- #### [C语言网](https://www.dotcpp.com/)
 
 ## 开发社区
 
@@ -121,25 +116,6 @@
 
 - #### [Emoji大全](https://www.emojiall.com/zh-hans)
 
-- #### [各种特殊符号](https://www.zfuhao.com/)
-
-- #### [ChromeStore插件](https://www.crx4chrome.com/)
-
-- #### [Chrome插件扩展下载网](https://www.extfans.com/)
-
 - #### [临时邮箱 匿名注册不常用网站](https://linshiyouxiang.net/)
 
 - #### [Text to ASCII](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
-
-#### 其他一些小工具箱
-
-- #### [在线工具](https://tool.lu/)
-
-- #### [站长工具](http://tool.chinaz.com/)
-
-- #### [工具大全](http://www.all-tool.cn/)
-
-- #### [记磊工具箱](https://tools.ly522.com/)
-
-- #### [孟坤工具箱](http://tool.mkblog.cn/)
-
