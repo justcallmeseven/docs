@@ -27,7 +27,7 @@
 
 ## CDN解决方案
 
-- #### [Jsdelivr 免费开源的CDN解决方案，用于帮助开发者和站长。包含JavaScript库、jQuery插件、CSS框架、字体等等Web上常用的静态资源](https://www.jsdelivr.com/)
+- #### [Jsdelivr 免费开源的CDN解决方案。包含JavaScript库、jQuery插件、CSS框架、字体等等Web上常用的静态资源](https://www.jsdelivr.com/)
 
 ## 矢量图标库
 
