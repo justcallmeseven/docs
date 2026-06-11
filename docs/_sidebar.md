@@ -2,8 +2,8 @@
   - [计算机基础](计算机/first.md)
 - **📑数据库**
   - [数据库](数据库/first.md)
-- **📑Java**
-  - [Java](java/first.md)
+- **📑语言**
+  - [Java](语言/first.md)
 - **📑框架**
   - [常见框架](框架/first.md)
 - **📑前端**
