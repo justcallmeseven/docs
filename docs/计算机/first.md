@@ -12,6 +12,8 @@
 
 - #### [Linux常用命令](计算机/Linux常用命令.md)
 
+- #### [关于SSH服务](计算机/Linux关于SSH服务.md)
+
 - #### [vim官网](https://www.vim.org/)
 
   #### [vi/vim入门](计算机/vim入门.md)
