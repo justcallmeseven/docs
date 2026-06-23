@@ -1,4 +1,4 @@
-# IP地址后面斜杠加具体数字详解
+## IP地址后面斜杠加具体数字详解
 
 > **简介：** 其实这种形式就是用CIDR（无类别域间路由选择，Classless and Subnet Address Extensions and Supernetting））的形式表示的一个网段，或者说子网。    我们知道确定一个子网需要知道主机地址和子网掩码，但用CIDR的形式，可以简单得到两个数值。
 
