@@ -58,8 +58,6 @@ popd  # 弹出了 /etc/nginx，回到了 /var/log/nginx
 popd  # 弹出了 /var/log/nginx，回到了最初的 ~
 ```
 
-
-
 ------
 
 ### 四、处理符号链接（软链接）的高级参数
@@ -80,8 +78,6 @@ pwd   # 默认显示 /var/www （逻辑路径）
 cd -P /var/www
 pwd   # 显示 /data/webapp/public （物理真实路径）
 ```
-
-
 
 在运维排错时，如果你怀疑链接指向错误，用 `cd -P` 直达真实目录查看实际内容非常有用。
 
@@ -126,7 +122,7 @@ export CDPATH="/var/log:/etc:/opt"
 
 
 
-
+11111111111111111111111111111
 
 疑问：GPT看看
 
